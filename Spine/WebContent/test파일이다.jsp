@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-
-		이동규바보
+		ㅁㄴㅇ;ㅓㅣㅏㄹㄹㅇㄴ;ㅓㅣㅏㅇㄴ;ㅣㅏㅓㅁㅇㄴㄹ어ㅏ민;ㄹㅇㅁ니ㅓㅏ;ㄻㅇ너ㅏㅣ;ㄹㄴㅇㅁ
 </body>
 </html>
