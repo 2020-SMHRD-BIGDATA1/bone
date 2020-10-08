@@ -23,8 +23,16 @@
 					<!-- Logo -->
 						<div id="logo">
 							
-							<h1 id="title">Jane Doe</h1>
-							<p>Hyperspace Engineer</p>
+							<h1 id="title">
+							<% if (info == null){%>
+									
+									
+									<% 	}else{%>
+										<%=info.getId()%>님 환영합니다.
+										<%	}%>
+							
+							</h1>
+						<!-- 	<p>Hyperspace Engineer</p> -->
 						</div>
 
 					 <!-- Nav -->
@@ -197,7 +205,7 @@
 <script>
 	function log(){
 		/* window.close("main.jsp") */
-		window.open("log.jsp","로그인","width=500px, height=400px,top=400px,left=700px")
+		window.open("log.jsp","로그인","width=500px, height=400px,top=400px,left=700px,toolbar=no,status=no,menubar=no,resizable=yes, location=no,scrollbars=no")
 		
 	}
 	function start(){
