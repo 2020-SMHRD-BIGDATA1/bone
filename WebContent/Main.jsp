@@ -26,7 +26,7 @@
 							<h1 id="title">
 							<% if (info == null){%>
 									
-									
+									<!-- 하이 -->
 									<% 	}else{%>
 										<%=info.getId()%>님 환영합니다.
 										<%	}%>
